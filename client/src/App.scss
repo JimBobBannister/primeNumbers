@@ -1,0 +1,34 @@
+.App {
+  display: grid;
+  text-align: center;
+}
+
+body {
+  padding: 10px;
+  font-family: Helvetica;
+  background-color: #e6e6fa;
+}
+
+div {
+  text-align: center;
+  justify-content: center;
+}
+
+h3 {
+  color: #A9A9A9;
+  font-weight:normal;
+}
+ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  grid-gap: 10px;
+  list-style-type: none;
+}
+
+li {
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 14px;
+}
+
