@@ -53,7 +53,8 @@ const List = React.memo(function List(props) {
     <Pagination
       selectComponentClass={Select}
       style={{ margin: '50px', justifyContent:'center', alignItems:'center',
-        borderRadius: 5, padding: 2, fontSize: 12 }}
+        borderRadius: 5, padding:
+        10, fontSize: 12 }}
       pageSize={pageSize}
       pageSizeOptions={["12", "60", "120"]}
       total={limitation}

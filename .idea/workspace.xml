@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25a671a7-04bb-453a-8e3c-986c7bc9bf6b" name="Default Changelist" comment="" />
+    <list default="true" id="25a671a7-04bb-453a-8e3c-986c7bc9bf6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client/src/components/NumberEntryForm/components/NumberEntryForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NumberEntryForm/components/NumberEntryForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/list.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,8 +22,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/server/src/lib/utils.js">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="540">
-                    <caret line="36" selection-start-line="36" selection-end-line="36" />
+                  <state relative-caret-position="345">
+                    <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
                   </state>
                 </provider>
               </entry>
@@ -35,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/components/NumberEntryForm/components/NumberEntryForm.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state relative-caret-position="138">
+              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -56,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            <state relative-caret-position="201">
+              <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -196,7 +199,6 @@
         <option value="$PROJECT_DIR$/client/src/NumberEntryForm/components/NumberEntryForm.jsx" />
         <option value="$PROJECT_DIR$/client/src/App.js" />
         <option value="$PROJECT_DIR$/client/src/components/item.js" />
-        <option value="$PROJECT_DIR$/client/src/components/NumberEntryForm/components/NumberEntryForm.jsx" />
         <option value="$PROJECT_DIR$/server/package.json" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/client/package.json" />
@@ -208,6 +210,7 @@
         <option value="$PROJECT_DIR$/server/test/lib/utils.js" />
         <option value="$PROJECT_DIR$/server/src/index.js" />
         <option value="$PROJECT_DIR$/client/src/App.scss" />
+        <option value="$PROJECT_DIR$/client/src/components/NumberEntryForm/components/NumberEntryForm.jsx" />
         <option value="$PROJECT_DIR$/client/src/components/list.js" />
       </list>
     </option>
@@ -227,10 +230,10 @@
     <dismissed value="$PROJECT_DIR$/server/package.json" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2318" />
-    <option name="y" value="-467" />
-    <option name="width" value="1866" />
-    <option name="height" value="1225" />
+    <option name="x" value="-2298" />
+    <option name="y" value="-358" />
+    <option name="width" value="1726" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -355,17 +358,17 @@
       <option name="presentableId" value="Default" />
       <updated>1555833023646</updated>
       <workItem from="1555833024933" duration="9686000" />
-      <workItem from="1555959405221" duration="48152000" />
+      <workItem from="1555959405221" duration="49660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57838000" />
+    <option name="totallyTimeSpent" value="59346000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2318" y="-467" width="1866" height="1225" extended-state="0" />
+    <frame x="-2298" y="-358" width="1726" height="821" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22384824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24222875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -377,7 +380,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.499729" visible="true" weight="0.45045045" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.499729" visible="true" weight="0.3385269" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500271" side_tool="true" weight="0.10630631" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -605,16 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/NumberEntryForm/components/NumberEntryForm.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -660,20 +653,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/list.js">
+    <entry file="file://$PROJECT_DIR$/server/src/lib/utils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        <state relative-caret-position="345">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/NumberEntryForm/components/NumberEntryForm.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/lib/utils.js">
+    <entry file="file://$PROJECT_DIR$/client/src/components/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="201">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

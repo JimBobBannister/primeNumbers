@@ -10,7 +10,7 @@ export class NumberEntryForm extends Component {
   }
 
   handleChange = (event) => {
-    this.setState({[event.target.name]: parseInt(event.target.value) ? parseInt(event.target.value) : this.state.numberEntry });
+    this.setState({[event.target.name]: parseInt(event.target.value)  ? parseInt(event.target.value) : "" });
   }
 
   handleSubmit = () => {
